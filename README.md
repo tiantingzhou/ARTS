@@ -1,7 +1,7 @@
 # ARTS
 zrts周计划
 
-## 介绍
+# 介绍
 ## A=Algorithm
 至少做一个 leetcode 的算法题。
 
